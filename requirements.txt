@@ -1,0 +1,2 @@
+pywebcopy>=7.0.2
+os
