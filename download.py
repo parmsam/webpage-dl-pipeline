@@ -1,5 +1,4 @@
 from src.download_webpage import *
-from src.format_url import *
 import os
 
 # Path to the file containing URLs
